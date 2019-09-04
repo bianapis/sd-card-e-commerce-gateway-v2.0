@@ -1,0 +1,19 @@
+{
+  "cardTransactionRetrieveActionTaskRecord" : {},
+  "cardTransactionInstanceRecord" : {},
+  "cardTransactionInstanceAnalysis" : {
+    "cardTransactionInstanceAnalysisReport" : {},
+    "cardTransactionInstanceAnalysisReportType" : "cardTransactionInstanceAnalysisReportType",
+    "cardTransactionInstanceAnalysisRecord" : {},
+    "cardTransactionInstanceAnalysisParameters" : "cardTransactionInstanceAnalysisParameters"
+  },
+  "cardTransactionInstanceReport" : {
+    "cardTransactionInstanceReportRecord" : {},
+    "cardTransactionInstanceReportType" : "cardTransactionInstanceReportType",
+    "cardTransactionInstanceReportParameters" : "cardTransactionInstanceReportParameters",
+    "cardTransactionInstanceReport" : {}
+  },
+  "eCommerceGatewayOperatingSessionInstanceRecord" : {},
+  "cardTransactionRetrieveActionTaskReference" : "CTRATR745322",
+  "cardTransactionRetrieveActionResponse" : "cardTransactionRetrieveActionResponse"
+}

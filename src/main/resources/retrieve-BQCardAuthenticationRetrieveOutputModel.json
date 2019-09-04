@@ -1,0 +1,20 @@
+{
+  "cardAuthenticationRetrieveActionTaskReference" : "CARATR764084",
+  "cardAuthenticationRetrieveActionResponse" : "cardAuthenticationRetrieveActionResponse",
+  "cardAuthenticationInstanceReport" : {
+    "cardAuthenticationInstanceReport" : {},
+    "cardAuthenticationInstanceReportParameters" : "cardAuthenticationInstanceReportParameters",
+    "cardAuthenticationInstanceReportType" : "cardAuthenticationInstanceReportType",
+    "cardAuthenticationInstanceReportRecord" : {}
+  },
+  "cardTransactionInstanceRecord" : {},
+  "cardAuthenticationInstanceRecord" : {},
+  "eCommerceGatewayOperatingSessionInstanceRecord" : {},
+  "cardAuthenticationRetrieveActionTaskRecord" : {},
+  "cardAuthenticationInstanceAnalysis" : {
+    "cardAuthenticationInstanceAnalysisReport" : {},
+    "cardAuthenticationInstanceAnalysisReportType" : "cardAuthenticationInstanceAnalysisReportType",
+    "cardAuthenticationInstanceAnalysisParameters" : "cardAuthenticationInstanceAnalysisParameters",
+    "cardAuthenticationInstanceAnalysisRecord" : {}
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "transactionBatchInstanceRecord" : {},
+  "transactionBatchRetrieveActionResponse" : "transactionBatchRetrieveActionResponse",
+  "transactionBatchRetrieveActionTaskReference" : "TBRATR735511",
+  "transactionBatchInstanceAnalysis" : {
+    "transactionBatchInstanceAnalysisParameters" : "transactionBatchInstanceAnalysisParameters",
+    "transactionBatchInstanceAnalysisReport" : {},
+    "transactionBatchInstanceAnalysisRecord" : {},
+    "transactionBatchInstanceAnalysisReportType" : "transactionBatchInstanceAnalysisReportType"
+  },
+  "eCommerceGatewayOperatingSessionInstanceRecord" : {},
+  "transactionBatchRetrieveActionTaskRecord" : {},
+  "transactionBatchInstanceReport" : {
+    "transactionBatchInstanceReportType" : "transactionBatchInstanceReportType",
+    "transactionBatchInstanceReportParameters" : "transactionBatchInstanceReportParameters",
+    "transactionBatchInstanceReportRecord" : {},
+    "transactionBatchInstanceReport" : {}
+  }
+}

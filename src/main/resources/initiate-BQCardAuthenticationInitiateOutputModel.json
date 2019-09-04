@@ -1,0 +1,8 @@
+{
+  "cardTransactionInstanceRecord" : {},
+  "cardAuthenticationInitiateActionRecord" : {},
+  "cardAuthenticationInstanceReference" : "CAIR764222",
+  "cardAuthenticationInitiateActionReference" : "CAIAR768934",
+  "cardAuthenticationInstanceStatus" : "cardAuthenticationInstanceStatus",
+  "eCommerceGatewayOperatingSessionInstanceRecord" : {}
+}

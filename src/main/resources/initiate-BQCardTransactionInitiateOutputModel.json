@@ -1,0 +1,8 @@
+{
+  "cardTransactionInstanceRecord" : {},
+  "cardTransactionInitiateActionRecord" : {},
+  "cardTransactionInitiateActionReference" : "CTIAR718285",
+  "cardTransactionInstanceStatus" : "cardTransactionInstanceStatus",
+  "eCommerceGatewayOperatingSessionInstanceRecord" : {},
+  "cardTransactionInstanceReference" : "CTIR745572"
+}

@@ -1,0 +1,19 @@
+{
+  "transactionAuthorizationInstanceReport" : {
+    "transactionAuthorizationInstanceReport" : {},
+    "transactionAuthorizationInstanceReportType" : "transactionAuthorizationInstanceReportType",
+    "transactionAuthorizationInstanceReportRecord" : {},
+    "transactionAuthorizationInstanceReportParameters" : "transactionAuthorizationInstanceReportParameters"
+  },
+  "cardTransactionInstanceRecord" : {},
+  "transactionAuthorizationRetrieveActionTaskRecord" : {},
+  "eCommerceGatewayOperatingSessionInstanceRecord" : {},
+  "transactionAuthorizationRetrieveActionResponse" : "transactionAuthorizationRetrieveActionResponse",
+  "transactionAuthorizationInstanceAnalysis" : {
+    "transactionAuthorizationInstanceAnalysisRecord" : {},
+    "transactionAuthorizationInstanceAnalysisReport" : {},
+    "transactionAuthorizationInstanceAnalysisReportType" : "transactionAuthorizationInstanceAnalysisReportType",
+    "transactionAuthorizationInstanceAnalysisParameters" : "transactionAuthorizationInstanceAnalysisParameters"
+  },
+  "transactionAuthorizationRetrieveActionTaskReference" : "TARATR711318"
+}

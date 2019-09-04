@@ -1,0 +1,8 @@
+{
+  "cardTransactionInstanceRecord" : {},
+  "transactionAuthorizationInstanceStatus" : "transactionAuthorizationInstanceStatus",
+  "transactionAuthorizationInitiateActionRecord" : {},
+  "transactionAuthorizationInstanceReference" : "TAIR708595",
+  "eCommerceGatewayOperatingSessionInstanceRecord" : {},
+  "transactionAuthorizationInitiateActionReference" : "TAIAR790267"
+}

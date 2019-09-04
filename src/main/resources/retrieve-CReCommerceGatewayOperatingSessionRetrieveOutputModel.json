@@ -1,0 +1,16 @@
+{
+  "eCommerceGatewayOperatingSessionInstanceAnalysis" : {
+    "eCommerceGatewayOperatingSessionInstanceAnalysisReport" : {},
+    "eCommerceGatewayOperatingSessionInstanceAnalysisReportType" : "eCommerceGatewayOperatingSessionInstanceAnalysisReportType",
+    "eCommerceGatewayOperatingSessionInstanceAnalysisData" : "eCommerceGatewayOperatingSessionInstanceAnalysisData"
+  },
+  "eCommerceGatewayOperatingSessionRetrieveActionTaskReference" : "EGOSRATR799701",
+  "eCommerceGatewayOperatingSessionInstanceRecord" : {},
+  "eCommerceGatewayOperatingSessionRetrieveActionTaskRecord" : {},
+  "eCommerceGatewayOperatingSessionInstanceReportRecord" : {
+    "eCommerceGatewayOperatingSessionInstanceReportType" : "eCommerceGatewayOperatingSessionInstanceReportType",
+    "eCommerceGatewayOperatingSessionInstanceReportData" : "eCommerceGatewayOperatingSessionInstanceReportData",
+    "eCommerceGatewayOperatingSessionInstanceReport" : {}
+  },
+  "eCommerceGatewayOperatingSessionRetrieveActionResponse" : "eCommerceGatewayOperatingSessionRetrieveActionResponse"
+}
